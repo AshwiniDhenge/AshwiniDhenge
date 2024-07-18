@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshwiniDhenge
--  I’m currently learning Java FULL STACK DEVELOPMENT.
+-  I’m currently learning JAVA FULL STACK DEVELOPMENT.
 
 
 <!---
